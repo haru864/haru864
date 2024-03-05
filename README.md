@@ -4,11 +4,16 @@
 
 [Markdown to HTML](https://mdtohtml.haru864.com)
 
+[PlantUML Server](https://plantumlserver.haru864.com)
+
 ## ポートフォリオのハイライト
 
 - Markdown to HTML
-  - Markdown から HTML への変換するウェブアプリケーション
+  - Markdown から HTML へ変換するWebアプリケーション
   - [README](https://github.com/haru864/MarkdownToHTML_Web)
+- PlantUML Server
+  - リアルタイムで作図する PlantUML エディター（練習問題付き）
+  - [README](https://github.com/haru864/PlantUMLServer)
 
 ## 連絡先
 
