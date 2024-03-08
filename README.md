@@ -6,6 +6,8 @@
 
 [PlantUML Server](https://plantumlserver.haru864.com)
 
+[Text Snippet Sharing Service](https://snippetshare.haru864.com/)
+
 ## ポートフォリオのハイライト
 
 - Markdown to HTML
@@ -14,6 +16,9 @@
 - PlantUML Server
   - リアルタイムで作図する PlantUML エディター（練習問題付き）
   - [README](https://github.com/haru864/PlantUMLServer)
+- Text Snippet Sharing Service
+  - オンラインコード＆テキストスニペット共有サービス
+  - [README](https://github.com/haru864/TextSnippetSharingService)
 
 ## 連絡先
 
