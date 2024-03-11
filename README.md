@@ -8,6 +8,8 @@
 
 [Text Snippet Sharing Service](https://snippetshare.haru864.com/)
 
+[Online Image Hosting Service](https://imagehost.haru864.com/)
+
 ## ポートフォリオのハイライト
 
 - Markdown to HTML
@@ -19,6 +21,9 @@
 - Text Snippet Sharing Service
   - オンラインコード＆テキストスニペット共有サービス
   - [README](https://github.com/haru864/TextSnippetSharingService)
+- Online Image Hosting Service
+  - 画像をアップロード、共有、表示できるオンライン画像ホスティングサービス
+  - [README](https://github.com/haru864/OnlineImageHostingService)
 
 ## 連絡先
 
