@@ -32,5 +32,4 @@
 
 ## 連絡先
 
-- [LinkedIn](https://jp.linkedin.com/in/haruta-kawauchi-22489425a)
-
+- [LinkedIn]()
