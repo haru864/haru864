@@ -1,7 +1,7 @@
 ## :octocat: Welcome to my Github page
 
 - :nerd_face: I'm a software engineer.
-- :books: Back-end development is our specialty.
+- 👍 Back-end development is our specialty.
 
 ## Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,php,c,cpp,bash,powershell)](https://skillicons.dev)
