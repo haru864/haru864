@@ -6,10 +6,10 @@
 ## Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,php,c,cpp,bash,powershell)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ## Libraries and Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,linux,nginx,maven,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,linux,nginx,gradle,npm)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
@@ -42,4 +42,4 @@
   - [アプリURL](http://imageboard.haru864.com/) 公開停止中
 
 ## 連絡先
-- [LinkedIn]()
+- [LinkedIn](https://jp.linkedin.com/in/haruta-kawauchi-22489425a)
