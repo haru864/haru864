@@ -3,15 +3,18 @@
 - :nerd_face: I'm a software engineer.
 - 👍 Back-end development is our specialty.
 
-## Languages and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,php,c,cpp,bash,powershell)](https://skillicons.dev)
+## Job
+[![My Skills](https://skillicons.dev/icons?i=python,java,bash,powershell,aws,gradle,mysql,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+## Personal development and learning
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,linux,nginx,npm,mysql)](https://skillicons.dev)
 
-## Libraries and Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,linux,nginx,gradle,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,php,c,cpp,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
+
+## OSS
+
 
 ## Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haru864&theme=github)
@@ -19,7 +22,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haru864&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haru864&theme=github)
 
-## ポートフォリオ
+## Portfolio
 - Markdown to HTML
   - Markdown から HTML へ変換するWebアプリケーション
   - [README](https://github.com/haru864/MarkdownToHTML_Web)
@@ -41,5 +44,5 @@
   - [README](https://github.com/haru864/ImageboardWebapp)
   - [アプリURL](http://imageboard.haru864.com/) 公開停止中
 
-## 連絡先
+## Contact
 - [LinkedIn](https://jp.linkedin.com/in/haruta-kawauchi-22489425a)
