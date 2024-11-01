@@ -3,7 +3,7 @@
 - :nerd_face: I'm a software engineer.
 - 👍 Back-end development is our specialty.
 
-## Job
+## Job experience
 [![My Skills](https://skillicons.dev/icons?i=python,java,bash,powershell,aws,gradle,mysql,git)](https://skillicons.dev)
 
 ## Personal development and learning
